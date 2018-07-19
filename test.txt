@@ -1,6 +1,0 @@
-this is my local test
-<<<<<<< HEAD
-edit on github 
-=======
-this is on local
->>>>>>> local commit
